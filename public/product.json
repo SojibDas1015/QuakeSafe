@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Base Isolation Pad",
+    "ratings": 4.8,
+    "madeIn": "Japan",
+    "category": "Earthquake Safety",
+    "price": 32000,
+    "image": "https://www.shutterstock.com/image-photo/bridge-resting-on-seismic-isolators-260nw-2626550973.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Shock Absorbing Damper",
+    "ratings": 4.7,
+    "madeIn": "Germany",
+    "category": "Earthquake Safety",
+    "price": 28000,
+    "image": "https://media.istockphoto.com/id/1226390177/photo/machine-part.webp?a=1&b=1&s=612x612&w=0&k=20&c=tBBR9RaZyD25PCYqkUb2XGX19iLZRkN-Jmyh5YvopQc="
+  },
+  {
+    "id": 3,
+    "title": "Earthquake Safety Anchor Bolts",
+    "ratings": 4.6,
+    "madeIn": "USA",
+    "category": "Safety Hardware",
+    "price": 2500,
+    "image": "https://images.unsplash.com/photo-1659957878057-53b02b9e0757?w=600&auto=format&fit=crop&q=60"
+  },
+  {
+    "id": 4,
+    "title": "FE-550D TMT Steel Rod",
+    "ratings": 4.9,
+    "madeIn": "India",
+    "category": "Construction Material",
+    "price": 950,
+    "image": "https://media.istockphoto.com/id/638272050/photo/3d-metal-rebar.webp?a=1&b=1&s=612x612&w=0&k=20&c=JXQ9QbulkfnwpoEfQ3nZwPp3HrvOtPRs6AcptJNJ0NE="
+  },
+  {
+    "id": 5,
+    "title": "High Strength Cement (Grade 53)",
+    "ratings": 4.7,
+    "madeIn": "Bangladesh",
+    "category": "Construction Material",
+    "price": 580,
+    "image": "https://plus.unsplash.com/premium_photo-1683121530725-e9ddd6c74ef1?w=600&auto=format&fit=crop&q=60"
+  },
+  {
+    "id": 6,
+    "title": "Ready Mix Concrete (RMC)",
+    "ratings": 4.5,
+    "madeIn": "Bangladesh",
+    "category": "Construction Material",
+    "price": 6700,
+    "image": "https://plus.unsplash.com/premium_photo-1661952448084-c8ff11cc973f?w=600&auto=format&fit=crop&q=60"
+  },
+  {
+    "id": 7,
+    "title": "UPVC Window (Weather Resistant)",
+    "ratings": 4.6,
+    "madeIn": "Turkey",
+    "category": "Home Improvement",
+    "price": 8500,
+    "image": "https://images.unsplash.com/photo-1754359373480-3a91ae1de10a?w=600&auto=format&fit=crop&q=60"
+  },
+  {
+    "id": 8,
+    "title": "Tempered Safety Glass Panel",
+    "ratings": 4.8,
+    "madeIn": "Malaysia",
+    "category": "Home Improvement",
+    "price": 12500,
+    "image": "https://plus.unsplash.com/premium_photo-1754308342838-5d2dbefddaf4?w=600&auto=format&fit=crop&q=60"
+  },
+  {
+    "id": 9,
+    "title": "Smart Earthquake Early Warning Sensor",
+    "ratings": 4.9,
+    "madeIn": "South Korea",
+    "category": "Smart Building",
+    "price": 42000,
+    "image": "https://images.pexels.com/photos/9028867/pexels-photo-9028867.jpeg"
+  },
+  {
+    "id": 10,
+    "title": "Emergency Earthquake Safety Kit",
+    "ratings": 4.7,
+    "madeIn": "USA",
+    "category": "Safety Equipment",
+    "price": 3500,
+    "image": "https://plus.unsplash.com/premium_photo-1747226822192-c373f79facf1?w=600&auto=format&fit=crop&q=60"
+  },
+  {
+    "id": 11,
+    "title": "Fire Extinguisher (Home Use)",
+    "ratings": 4.8,
+    "madeIn": "China",
+    "category": "Safety Equipment",
+    "price": 1800,
+    "image": "https://images.unsplash.com/photo-1755701334375-74cb0625de7d?w=600&auto=format&fit=crop&q=60"
+  },
+  {
+    "id": 12,
+    "title": "Construction Safety Helmet",
+    "ratings": 4.5,
+    "madeIn": "Vietnam",
+    "category": "Safety Gear",
+    "price": 750,
+    "image": "https://plus.unsplash.com/premium_photo-1681989490797-dbe51c438b61?w=600&auto=format&fit=crop&q=60"
+  }
+]

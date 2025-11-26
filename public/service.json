@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "title": "Architectural Design",
+    "category": "Architecture & Design",
+    "description": "We design innovative and functional spaces tailored to our client's needs. Our designs focus on both aesthetics and practicality, creating harmonious environments.",
+    "features": [
+      "Customized floor plans and layouts",
+      "3D renderings and visualization of spaces",
+      "Sustainable and eco-friendly materials"
+    ],
+    "image": "https://i.ibb.co.com/pjpW4QhQ/h3-port-img4.jpg",
+    "callToAction": "Create Your Dream Space with Us!"
+  },
+  {
+    "id": 2,
+    "title": "Interior Design",
+    "category": "Interior Design",
+    "description": "Transforming interiors to reflect your unique style and function. From color schemes to furniture, we handle every aspect of your space’s interior design.",
+    "features": [
+      "Space planning and furniture design",
+      "Custom lighting and color schemes",
+      "Material selection and styling"
+    ],
+    "image": "https://images.unsplash.com/photo-1616046229478-9901c5536a45?q=80&w=580&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "callToAction": "Make Your Interiors Shine!"
+  },
+  {
+    "id": 3,
+    "title": "Earthquake-Resistant Structural Design",
+    "category": "Structural Engineering & Safety",
+    "description": "Designing buildings with the latest earthquake-resistant technologies to ensure safety in seismic zones.",
+    "features": [
+      "Base isolation and reinforced structures",
+      "Seismic load calculations and testing",
+      "Earthquake resilience certifications"
+    ],
+    "image": "https://t3.ftcdn.net/jpg/05/91/72/72/360_F_591727248_dJQdm9CSdXt7UStBYQvCPHIGXxKjnbFs.jpg",
+    "callToAction": "Protect Your Building from Earthquakes!"
+  },
+  {
+    "id": 4,
+    "title": "MEP (Mechanical, Electrical, Plumbing) Engineering",
+    "category": "Engineering Services",
+    "description": "Ensuring your building’s mechanical, electrical, and plumbing systems are designed for efficiency, safety, and functionality.",
+    "features": [
+      "HVAC design and system optimization",
+      "Electrical systems (lighting, power, automation)",
+      "Plumbing (water supply, waste, drainage)"
+    ],
+    "image": "https://as1.ftcdn.net/jpg/15/22/95/00/1000_F_1522950053_rmSwIznaJQRraMY5cuDNHwmh70UWGMUu.jpg",
+    "callToAction": "Optimize Your Building’s MEP Systems!"
+  },
+  {
+    "id": 5,
+    "title": "Structural Integrity & Safety Audits",
+    "category": "Safety & Risk Management",
+    "description": "We perform detailed structural audits to assess the integrity and safety of existing buildings and ensure they comply with the latest standards.",
+    "features": [
+      "Safety inspections for structural integrity",
+      "Compliance with local building codes",
+      "Repair recommendations based on findings"
+    ],
+    "image": "https://t4.ftcdn.net/jpg/14/68/87/15/240_F_1468871569_fFxtIaCz7qb4nM1Jr6CHWgEq07raG8lR.jpg",
+    "callToAction": "Schedule Your Building Audit Today!"
+  },
+  {
+    "id": 6,
+    "title": "Disaster Management & Emergency Response Planning",
+    "category": "Safety & Emergency Preparedness",
+    "description": "We help you create emergency plans and evacuation strategies to safeguard occupants during natural disasters like earthquakes, floods, and fires.",
+    "features": [
+      "Emergency exit planning and evacuation routes",
+      "Training programs for building occupants",
+      "Integration of early warning systems and emergency alerts"
+    ],
+    "image": "https://t4.ftcdn.net/jpg/08/33/92/07/240_F_833920770_o8yuZVgSFYUDP1WQFFfn8OffQFj9ooui.jpg",
+    "callToAction": "Prepare for the Unexpected!"
+  },
+  {
+    "id": 7,
+    "title": "Building Renovations & Retrofits",
+    "category": "Renovation & Remodeling",
+    "description": "We provide renovation and retrofit services to update existing buildings with modern technologies and improvements, including seismic strengthening.",
+    "features": [
+      "Structural upgrades and seismic retrofitting",
+      "Interior redesign to improve functionality",
+      "Sustainable remodeling using energy-efficient technologies"
+    ],
+    "image": "https://t3.ftcdn.net/jpg/16/38/40/90/240_F_1638409042_Vk9fxGlUjKXl7BOcmyVPKfKzq7zhem98.jpg",
+    "callToAction": "Upgrade Your Building Today!"
+  },
+  {
+    "id": 8,
+    "title": "Sustainable & Green Building Design",
+    "category": "Sustainability & Environment",
+    "description": "We specialize in designing energy-efficient, eco-friendly buildings that reduce environmental impact and lower energy costs.",
+    "features": [
+      "Solar energy systems and green roofs",
+      "Energy-efficient materials (insulation, windows)",
+      "Rainwater harvesting and waste management"
+    ],
+    "image": "https://t4.ftcdn.net/jpg/14/57/10/05/240_F_1457100507_OKONysSrILMmA87TxuxEkMEKdKsexHuK.jpg",
+    "callToAction": "Build a Greener Future with Us!"
+  },
+  {
+    "id": 9,
+    "title": "Seismic Risk Assessment & Evaluation",
+    "category": "Safety & Risk Management",
+    "description": "We provide thorough seismic risk assessments to evaluate how well your building will perform during an earthquake, and offer mitigation strategies.",
+    "features": [
+      "Seismic hazard analysis and site evaluations",
+      "Recommendations for earthquake-resistant upgrades",
+      "Risk management strategies and insurance consulting"
+    ],
+    "image": "https://media.istockphoto.com/id/2229734204/photo/risk-aseesment-on-the-house-building-structure-or-building-quality.jpg?s=612x612&w=0&k=20&c=LbNEAweViB_L8m76GJ5aVbgV_lCJE9mEBmnt34Sjjks=",
+    "callToAction": "Assess Your Seismic Risk Today!"
+  },
+  {
+    "id": 10,
+    "title": "Smart Building & Automation Systems",
+    "category": "Technology & Innovation",
+    "description": "We integrate smart technology solutions into buildings for energy efficiency, security, and enhanced user experience.",
+    "features": [
+      "Automated lighting, temperature control, and security",
+      "Voice-activated systems (Alexa, Google Home)",
+      "Smart building monitoring (energy consumption, occupancy)"
+    ],
+    "image": "https://t4.ftcdn.net/jpg/08/74/98/31/240_F_874983126_GbhQ5b5udFGCRvo8oDK1NqYjxUe5DaYq.jpg",
+    "callToAction": "Make Your Building Smart and Efficient!"
+  }
+]

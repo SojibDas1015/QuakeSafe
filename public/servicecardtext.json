@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "number": 2013,
+    "title": "Years Experience",
+    "description": "Improving homes with expert craftsmanship for years"
+  },
+  {
+    "id": 2,
+    "number": "190+",
+    "title": "Projects Completed",
+    "description": "Over 250 successful projects delivered with quality and care"
+  },
+  {
+    "id": 3,
+    "number": "260+",
+    "title": "Skilled Tradespeople",
+    "description": "Our team of 30 experts ensures top-quality results"
+  },
+  {
+    "id": 4,
+    "number": "328+",
+    "title": "Client Satisfaction",
+    "description": "All of our clients are satisfied with our work and service"
+  }
+]
